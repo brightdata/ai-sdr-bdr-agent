@@ -177,4 +177,27 @@ This system uses **5 specialized AI agents**:
 
 ## License
 
-MIT License.
+This project is for educational and internal demo purposes.
+
+---
+
+## Learn More
+
+- [How Bright Data's Web MCP works](https://docs.brightdata.com/mcp-server/overview)
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [OpenAI Platform Docs](https://platform.openai.com/docs)
+- [CrewAI Docs](https://docs.crewai.com/)
+
+---
+
+**Ready to elevate your sales development? Deploy your own AI SDR Agent and transform manual outreach into automated, qualified pipeline—instantly!**
+
+<p align="center">
+  <a href="https://brightdata.com/cp/start" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Get%20Started-%233D7FFC?style=for-the-badge&logo=rocket&logoColor=white" alt="Get Started" style="height: 48px; border-radius: 8px;">
+  </a>
+</p>
+
+---
+
+**Made with ❤️ using Bright Data & OpenAI**
