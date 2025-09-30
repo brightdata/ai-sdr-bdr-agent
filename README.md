@@ -177,4 +177,4 @@ This system uses **5 specialized AI agents**:
 
 ## License
 
-MIT License - see LICENSE file for details.
+MIT License.
